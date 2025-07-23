@@ -7,7 +7,7 @@ A simple React app that allows you to search for movies using the TMDb API, buil
 1. Clone the repository:
 
    ```sh
-   git clone [url]
+   git clone https://github.com/jGezela/react-movie-search.git
    cd nextjs-wol
    ```
 
